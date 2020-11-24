@@ -23,6 +23,8 @@ git add: adiciona um arquivo
 git commit -m " ": criando uma versao/snapshot do arquivo
 git log: mostra detalhes
 git log --decorate: mostra detalhes
+git show + hash_do_commit: para ver as mudanças que o commit fez
+
 
 
 
