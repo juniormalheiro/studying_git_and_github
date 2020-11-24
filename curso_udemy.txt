@@ -21,7 +21,8 @@ git init: inicializa o repositorio
 git status: para saber como está o estado
 git add: adiciona um arquivo
 git commit -m " ": criando uma versao/snapshot do arquivo
-
+git log: mostra detalhes
+git log --decorate: mostra detalhes
 
 
 
