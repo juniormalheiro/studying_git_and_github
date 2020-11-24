@@ -1,0 +1,46 @@
+Curso Git  e Github
+
+//DEFINIR O NOME DE USUARIO
+1 - git config --global user.name "nome"
+
+//DEFINIR O EMAIL DO USUARIO
+2 - git config --global user.email "email"
+
+//DEFINIR O EDITOR PADRAO
+3 - git config --global core.editor vi
+
+//SABER QUAL É O EDITOR PADRAO
+4 - git config core.editor
+
+//VER TODAS AS CONFIGURAÇÕES DO GIT DEFINIDAS
+5 - git config --list
+
+comandos:
+
+git init: inicializa o repositorio
+git status: para saber como está o estado
+git add: adiciona um arquivo
+git commit -m " ": criando uma versao/snapshot do arquivo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
