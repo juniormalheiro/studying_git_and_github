@@ -32,6 +32,10 @@ git remote
 git remote -v
 git branch -M main
 
+Depois, adicione o arquivo que está sendo modificado.
+git add
+git commit -m "mensagem de commit"
+git push: envia para o repositorio remoto
 
 
 
