@@ -39,9 +39,10 @@ git push: envia para o repositorio remoto
 
 *Aproveite para estudar com um excelente vinho. =D
 
+Para clonar um repositorio remoto, use o comando:
+git clone link_encontrado_no_github
 
-
-
+*Vinho é bom com pizza e/ou amendoim.
 
 
 
