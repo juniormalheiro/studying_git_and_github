@@ -24,9 +24,14 @@ git commit -m " ": criando uma versao/snapshot do arquivo
 git log: mostra detalhes
 git log --decorate: mostra detalhes
 git show + hash_do_commit: para ver as mudanças que o commit fez
-git diff: para ver as mudanças feitas em um arquivo, de preferencia antes do commit
 
-data de hoje: 26/11/2020
+Após criar um repositorio remoto no github, vc ira vincular a um repositorio local.
+
+git remote add origin https://github.com/juniormalheiro/studying_git_and_github.git
+git remote
+git remote -v
+git branch -M main
+
 
 
 
