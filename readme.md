@@ -1,5 +1,6 @@
 Curso de Git e Github feito pelo Udemy.
 
-- Aprendendo a lidar com git e github.
+- Aprendendo a lidar com Git e Github.
 
-uma nova mensagem de teste.
+Curso de Git e Github feito pela Udemy. Farei alguns testes neste repositorio.
+.
