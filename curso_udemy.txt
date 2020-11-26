@@ -37,7 +37,7 @@ git add
 git commit -m "mensagem de commit"
 git push: envia para o repositorio remoto
 
-
+*Aproveite para estudar com um excelente vinho. =D
 
 
 
